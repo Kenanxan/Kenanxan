@@ -6,7 +6,7 @@ I work on designing and developing complete products, from system architecture t
 
 Projects
 
-Rayon Kuryer  
+Rayon: All-in-One Delivery App
 Multi-service delivery application built with Flutter and Dart. Backend powered by Firebase (Authentication, Firestore, Cloud Functions, Messaging). Integrated with Google Maps, geolocation services, and real-time notifications.
 
 Fraktaluni Education Platform  
@@ -21,8 +21,3 @@ Mobile: Flutter, Dart
 Frontend: React, Next.js, TypeScript, Tailwind CSS, Material UI  
 Backend: Node.js, NestJS, Express, Socket.IO  
 Database & Infrastructure: PostgreSQL, Prisma, Firebase, AWS S3  
-
-Contact
-
-Email: kenanramazanli@hotmail.com  
-LinkedIn: https://www.linkedin.com/in/kenanramazan
