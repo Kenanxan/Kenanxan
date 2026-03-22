@@ -1,6 +1,6 @@
 Hi, I'm Kenan
 
-Software Developer focused on building production-ready applications and real-world systems.
+AI-powered Product Developer focused on building production-ready applications and real-world systems.
 
 I work on designing and developing complete products, from system architecture to implementation, with a strong focus on performance, usability, and scalability.
 
