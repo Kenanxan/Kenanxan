@@ -1,23 +1,28 @@
 Hi, I'm Kenan
 
-AI-powered Product Developer focused on building production-ready applications and real-world systems.
+Fullstack Product Developer with 7+ years of experience building production-grade applications across web and mobile platforms.
 
-I work on designing and developing complete products, from system architecture to implementation, with a strong focus on performance, usability, and scalability.
+For the past 2 years, I’ve been working as a Team Lead on a UK-based large-scale crypto product, leading development across backend systems, frontend applications, and overall system architecture. My work focuses on technical decision-making, codebase structure, and delivering reliable features in a live production environment.
 
-Projects
+I specialize in building end-to-end systems — from architecture and backend services to frontend implementation and deployment. My focus is on scalability, performance, and maintainable production-ready systems.
 
-Rayon: All-in-One Delivery App
-Multi-service delivery application built with Flutter and Dart. Backend powered by Firebase (Authentication, Firestore, Cloud Functions, Messaging). Integrated with Google Maps, geolocation services, and real-time notifications.
+I also have hands-on experience with real-time systems, financial platforms, and multi-service architectures.
 
-Fraktaluni Education Platform  
-Online education platform for video courses and student management. Built with Next.js, React, TypeScript, and Tailwind CSS. Backend uses NestJS, Prisma, and PostgreSQL. Includes authentication and payment integration.
+Experience
 
-Smart Room Service Systems  
-B2B SaaS solution for digital room service management in hospitality. Built using React, Node.js, Express, and Socket.IO for real-time features. Uses PostgreSQL and AWS S3 for data and storage.
+UK-Based Crypto Platform — Team Lead
+Leading development of a large-scale crypto product in a live environment, with responsibility across architecture, backend systems, frontend implementation, and delivery workflow.
 
-Technical Stack
+Rayon — All-in-One Delivery Platform
+Built a multi-service delivery application using Flutter and Firebase, with real-time features, geolocation, and scalable backend workflows.
 
-Mobile: Flutter, Dart  
-Frontend: React, Next.js, TypeScript, Tailwind CSS, Material UI  
-Backend: Node.js, NestJS, Express, Socket.IO  
-Database & Infrastructure: PostgreSQL, Prisma, Firebase, AWS S3  
+Smart Room Service System
+Developed a B2B SaaS platform for hospitality using React, Node.js, and Socket.IO, focused on real-time service management.
+
+Tech Stack
+
+Mobile: Flutter, Dart
+Frontend: React, Next.js, TypeScript
+Backend: Node.js, NestJS, Express
+Database: PostgreSQL, Prisma
+Cloud & Infrastructure: AWS (EC2, S3, RDS, Lambda, IAM, CloudWatch), Firebase
