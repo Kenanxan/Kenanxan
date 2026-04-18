@@ -8,6 +8,8 @@ Projects
 Crypto Platform (UK) — Team Lead (backend & architecture)
 Rayon — Delivery App (Flutter + Firebase, real-time features)
 Smart Room Service — B2B SaaS (Node.js, Socket.IO)
+
+
 Tech
 
 React, Next.js, Node.js, NestJS, PostgreSQL, AWS, Flutter
